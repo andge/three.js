@@ -14,7 +14,7 @@ self.console = self.console || {
 	error: function () {}
 
 };
-
+alert('hello world');
 self.Int32Array = self.Int32Array || Array;
 self.Float32Array = self.Float32Array || Array;
 
